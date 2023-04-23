@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^10.0.0",
-    "electron": "^11.5.0",
+    "electron": "^24.1.2",
     "electron-reload": "^1.5.0",
     "mysql2": "^2.3.3",
     "promise-mysql": "^5.0.4"
